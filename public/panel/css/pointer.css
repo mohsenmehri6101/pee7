@@ -1,0 +1,83 @@
+.pointer_auto
+{
+    cursor:auto;
+}
+
+.pointer_no_drop
+{
+    cursor:no-drop;
+}
+
+.pointer_crosshair
+{
+    cursor:crosshair;
+}
+
+.pointer_default
+{
+    cursor:default;
+}
+
+.pointer_e_resize
+{
+    cursor:e-resize;
+}
+
+.pointer_help
+{
+    cursor:help;
+}
+
+.pointer_move
+{
+    cursor:move;
+}
+
+.pointer_n_resize
+{
+    cursor:n-resize;
+}
+
+.pointer_ne_resize
+{
+    cursor:ne-resize;
+}
+
+.pointer_nw_resize{
+    cursor:nw-resize;
+}
+
+.pointer_pointer
+{
+    cursor:pointer;
+}
+
+.pointer_progress
+{
+    cursor:progress;
+}
+.pointer_s_resize
+{
+    cursor:s-resize;
+}
+.pointer_se_resize{
+    cursor:se-resize;
+}
+.pointer_sw_resize{
+    cursor:sw-resize;
+}
+
+.pointer_text
+{
+    cursor:text;
+}
+
+.pointer_w_resize
+{
+    cursor:w-resize;
+}
+
+.pointer_wait
+{
+    cursor:wait;
+}

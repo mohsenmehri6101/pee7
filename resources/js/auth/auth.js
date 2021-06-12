@@ -1,0 +1,10 @@
+<link href="{{ url('auth/css/bootstrap.min.css') }}" >
+<link href="{{ url('auth/css/menu.css') }}" >
+<link href="{{ url('auth/css/style.css') }}" >
+<link href="{{ url('auth/css/vendors.css') }}" >
+<link href="{{ url('auth/css/farsi-font.css') }}" >
+<link href="{{ url('auth/css/custom.css') }}" >
+<link href="{{ url('auth/css/custom.css') }}" >
+<script src="{{ url('auth/js/modernizr.js') }}"></script>
+<link  href="{{ url('css/cursor.css') }}">
+<link  href="{{ url('auth/css/custom_auth.css') }}">

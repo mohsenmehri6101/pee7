@@ -1,0 +1,1 @@
+{{ request()->is($url) ? $class : '' }}

@@ -1,0 +1,1 @@
+@error($field) is-invalid @enderror

@@ -1,0 +1,33 @@
+@font-face {
+  font-family:'iran_sans';
+  src: url(iran_sans.ttf);
+}
+
+@font-face {
+  font-family:'iran_sans_web';
+  src: url('iran_sans_web.ttf');
+}
+@font-face {
+  font-family:'iran_sans_web_bold';
+  src: url('iran_sans_web_bold.ttf');
+}
+@font-face {
+  font-family:'iran_sans_web_medium';
+  src: url('iran_sans_web_medium.ttf');
+}
+@font-face {
+  font-family:'iran_sans_web_light';
+  src: url('iran_sans_web_light.ttf');
+}
+@font-face {
+  font-family:'iran_sans_web_ultralight';
+  src: url('iran_sans_web_ultralight.ttf');
+}
+@font-face {
+    font-family: 'irannastaligh';
+    src: url('m-nast.ttf');
+}
+
+*{
+  font-family:iran_sans_web;
+}

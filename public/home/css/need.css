@@ -1,0 +1,29 @@
+.cursor-pointer{
+    cursor: pointer !important;
+}
+
+.title{
+    font-size: 1.3em;
+    font-weight: 600;
+}
+/*css center image*/
+
+.swal-overlay {
+    background-color: rgba(43, 165, 137, 0.45);
+}
+.moo{
+    min-height:400px !important;
+    background-attachment:fixed !important;
+    background-position:center !important;
+    background-repeat:no-repeat !important;
+    background-size:cover !important;
+}
+/* Centered text */
+.centered-sp {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ /*css center image */
